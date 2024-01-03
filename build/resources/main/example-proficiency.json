@@ -1,0 +1,13 @@
+{
+  "employeeId": "0cef81ba-74bd-4731-8884-b45964a30e86",
+  "skillProficiencies": [
+    {
+      "skillId": "7dd555bf-d9b3-4442-8ca1-4e00f7990b38",
+      "proficiencyLevel": 5
+    },
+    {
+      "skillId": "93372716-19b9-41ef-8872-287ebbfce27c",
+      "proficiencyLevel": 2
+    }
+  ]
+}

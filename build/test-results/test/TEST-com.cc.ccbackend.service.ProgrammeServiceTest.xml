@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cc.ccbackend.service.ProgrammeServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-01-03T17:51:40" hostname="Dianas-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="getProgrammeById_whenProgrammeExists_thenReturnProgramme()" classname="com.cc.ccbackend.service.ProgrammeServiceTest" time="0.007"/>
+  <testcase name="createProgramme_whenIsNotSupervisor_thenThrowException()" classname="com.cc.ccbackend.service.ProgrammeServiceTest" time="0.001"/>
+  <testcase name="createProgramme_whenIsSupervisor_thenCreateProgramme()" classname="com.cc.ccbackend.service.ProgrammeServiceTest" time="0.001"/>
+  <testcase name="getAllProgrammes_whenExists_thenReturnAllProgrammes()" classname="com.cc.ccbackend.service.ProgrammeServiceTest" time="0.002"/>
+  <testcase name="createProgramme_whenProgrammeIsNull_thenThrowException()" classname="com.cc.ccbackend.service.ProgrammeServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

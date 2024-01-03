@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cc.ccbackend.service.ProficiencyServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-01-03T17:51:40" hostname="Dianas-MacBook-Pro.local" time="0.008">
+  <properties/>
+  <testcase name="create_whenProficiencyIsValid_thenCreateProficiency()" classname="com.cc.ccbackend.service.ProficiencyServiceTest" time="0.005"/>
+  <testcase name="getAllForRequest_whenRequestIsValid_thenReturnAllProficiencies()" classname="com.cc.ccbackend.service.ProficiencyServiceTest" time="0.001"/>
+  <testcase name="removeForEmployee_whenEmployeeExists_thenDeleteEmployeeProficiency()" classname="com.cc.ccbackend.service.ProficiencyServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

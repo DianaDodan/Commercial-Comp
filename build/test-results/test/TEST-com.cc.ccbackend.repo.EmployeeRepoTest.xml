@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cc.ccbackend.repo.EmployeeRepoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-03T17:51:39" hostname="Dianas-MacBook-Pro.local" time="0.124">
+  <properties/>
+  <testcase name="getEmployeeById_whenEmployeeDoesNotExist_thenThrowException()" classname="com.cc.ccbackend.repo.EmployeeRepoTest" time="0.124"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
